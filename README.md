@@ -9,7 +9,7 @@ I build intelligent systems that turn complex data into reliable, production-rea
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthikbhat9113/)
 [![Email](https://img.shields.io/badge/Email-Contact_E6EDF3?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:karthikbhat113@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=flat-square&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-kkb.karthikbhat113.workers.dev)
 
 </div>
 
